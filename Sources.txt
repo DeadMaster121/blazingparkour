@@ -1,0 +1,8 @@
+[Blazing Parkour]
+8Bit Music = https://assetstore.unity.com/packages/audio/music/8bit-music-062022-225623
+Boki Low Poly Nature = https://assetstore.unity.com/packages/3d/environments/boki-low-poly-nature-206385
+Lava Shader = https://assetstore.unity.com/publishers/12261
+UI Sounds = https://assetstore.unity.com/packages/audio/sound-fx/free-ui-click-sound-pack-244644
+Dyanmaic Sky = https://assetstore.unity.com/packages/vfx/shaders/fast-dynamic-sky-152747
+RPG Poly Pack = https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410
+Rust Key = https://assetstore.unity.com/publishers/39424
